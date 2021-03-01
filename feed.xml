@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Weekend Of Dreams tracker</title>
-    <link href="https://github.com/muirio/wod/feed.xml" rel="self" />
-    <link href="https://github.com/muirio/wod" />
+    <link href="https://github.io/muirio/wod/feed.xml" rel="self" />
+    <link href="https://github.io/muirio/wod" />
     <updated>2021-03-01T22:19:46+00:00</updated>
     <author>
         <name>James M</name>
     </author>
-    <id>https://github.com/muirio/wod</id>
+    <id>https://github.io/muirio/wod</id>
 
     <entry>
         <title>Infringements</title>
         <author>
             <name>James M</name>
         </author>
-        <link href="https://github.com/muirio/wod/infringements/"/>
-        <id>https://github.com/muirio/wod/infringements/</id>
+        <link href="https://github.io/muirio/wod/infringements/"/>
+        <id>https://github.io/muirio/wod/infringements/</id>
 
         <updated>2021-03-01T21:50:21+00:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>James M</name>
         </author>
-        <link href="https://github.com/muirio/wod/twatstitution/"/>
-        <id>https://github.com/muirio/wod/twatstitution/</id>
+        <link href="https://github.io/muirio/wod/twatstitution/"/>
+        <id>https://github.io/muirio/wod/twatstitution/</id>
 
         <updated>2021-03-01T22:19:46+00:00</updated>
             <summary>
@@ -95,8 +95,8 @@
         <author>
             <name>James M</name>
         </author>
-        <link href="https://github.com/muirio/wod/weekend-of-dreams-tracker/"/>
-        <id>https://github.com/muirio/wod/weekend-of-dreams-tracker/</id>
+        <link href="https://github.io/muirio/wod/weekend-of-dreams-tracker/"/>
+        <id>https://github.io/muirio/wod/weekend-of-dreams-tracker/</id>
 
         <updated>2021-03-01T22:04:30+00:00</updated>
             <summary>
