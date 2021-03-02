@@ -41,14 +41,14 @@
             "url": "https://github.io/muirio/wod/weekend-of-dreams-tracker/",
             "title": "Countdown",
             "summary": " The next WOD is planned for October 21 2021, which is&hellip;",
-            "content_html": "\n  <p id=\"the-next-wod-is-planned-for-october-21-2021-which-is\">\n    The next WOD is planned for October 21 2021, which is\n  </p>\n<div><!-- Display the countdown timer in an element -->\n<h1>\n<p id=\"demo\"></p>\n<script>\n// Set the date we're counting down to\nvar countDownDate = new Date(\"Oct 21, 2021 18:00:00\").getTime();\n\n// Update the count down every 1 second\nvar x = setInterval(function() {\n\n  // Get today's date and time\n  var now = new Date().getTime();\n\n  // Find the distance between now and the count down date\n  var distance = countDownDate - now;\n\n  // Time calculations for days, hours, minutes and seconds\n  var days = Math.floor(distance / (1000 * 60 * 60 * 24));\n  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n  var seconds = Math.floor((distance % (1000 * 60)) / 1000);\n\n  // Display the result in the element with id=\"demo\"\n  document.getElementById(\"demo\").innerHTML = days + \"d \" + hours + \"h \"\n  + minutes + \"m \" + seconds + \"s \";\n\n  // If the count down is finished, write some text\n  if (distance < 0) {\n    clearInterval(x);\n    document.getElementById(\"demo\").innerHTML = \"The WOD has started\";\n  }\n}, 1000);\n</script> </h1> from now!</div>\n\n  <p>\n    \n  </p>",
+            "content_html": "\n  <p id=\"the-next-wod-is-planned-for-october-21-2021-which-is\">\n    The next WOD is planned for October 21 2021, which is\n  </p>\n<div>\n</div>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "James M"
             },
             "tags": [
             ],
             "date_published": "2021-03-01T21:17:56+00:00",
-            "date_modified": "2021-03-01T22:04:30+00:00"
+            "date_modified": "2021-03-02T08:28:37+00:00"
         }
     ]
 }
